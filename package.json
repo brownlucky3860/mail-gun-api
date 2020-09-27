@@ -1,0 +1,14 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "sendind an email through mailgun",
+  "main": "mail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishkarshDubb",
+  "license": "ISC",
+  "dependencies": {
+    "mailgun-js": "^0.22.0"
+  }
+}
