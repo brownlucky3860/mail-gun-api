@@ -10,7 +10,7 @@ A) First of all:
 
 B) Then add all that info in the code (i.e. YOUR_API_KEY, YOUR_DOMAIN, THE_AUTHORIZED_RECIPIENT, Sender can be any)
 
-So Behind the scenes, What actually happens in through this code is:
+C)So Behind the scenes, What actually happens in through this code is:
 1)Mailgun assembles a MIME message.
 2)Adds the log entries to Mailgun's full text search index.
 3)Delivers the email.
