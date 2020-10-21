@@ -15,6 +15,6 @@ git clone https://github.com/Nishkarsh01/Sending-Email-with-MailGun.git
 ### `node app.js`
 
 For more information you can checkout:
-Open [https://www.geeksforgeeks.org/how-to-send-email-using-mailgun-api-in-node-js/]https://www.geeksforgeeks.org/how-to-send-email-using-mailgun-api-in-node-js/
+Open https://www.geeksforgeeks.org/how-to-send-email-using-mailgun-api-in-node-js/
 
 
