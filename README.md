@@ -12,7 +12,7 @@ git clone https://github.com/Nishkarsh01/Sending-Email-with-MailGun.git
 
 ### `npm install`
 
-### `npm start`
+### `node app.js`
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000)
