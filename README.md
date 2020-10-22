@@ -12,7 +12,7 @@ git clone https://github.com/Nishkarsh01/Sending-Email-with-MailGun.git
 
 ### `npm install`
 
-### `node app.js`
+### `node mail.js`
 
 For more information you can checkout:
 Open https://www.geeksforgeeks.org/how-to-send-email-using-mailgun-api-in-node-js/
