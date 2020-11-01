@@ -18,9 +18,9 @@ git clone https://github.com/Nishkarsh01/Sending-Email-with-MailGun.git
 
 ## Usage
 
-### `npm install`
+#### `npm install`
 
-### `node mail.js`
+#### `node mail.js`
 
 ## Collaborate
 To collaborate, reach me on [nishdubb11@gmail.com]()
