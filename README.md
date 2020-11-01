@@ -2,6 +2,8 @@
 
 Mailgun along with body-parser(though I have not included it as a dependency, nor have I created a form), can be used to create a basic form and submit the user-data to your back-end, and eventually send an email.
 
+![Mailgun api](images/1.png)
+
 
 ## Author
 > Nishkarsh01
