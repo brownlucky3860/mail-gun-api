@@ -6,7 +6,7 @@ Mailgun along with body-parser(though I have not included it as a dependency, no
 
 
 ## Author
-> Nishkarsh01
+> Nishkarsh Dubb
 
 
 
