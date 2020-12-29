@@ -5,7 +5,7 @@ Mailgun along with body-parser(though I have not included it as a dependency, no
 ![Mailgun api](images/1.png)
 
 
-## Author
+## Tutorial By
 > Nishkarsh Dubb
 
 
